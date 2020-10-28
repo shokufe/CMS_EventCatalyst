@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sh.simab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sh.simab\\.nuget\\packages"
+    ]
+  }
+}
